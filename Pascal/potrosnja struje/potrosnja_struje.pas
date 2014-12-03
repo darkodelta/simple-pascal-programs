@@ -10,6 +10,8 @@ begin
 	readln(C);
 	T:= P*C;
 	if T>LIMIT then T:= T+T*penali/100.0;
-	writeln('Vas racun je ',T,'dinara.')
+	writeln('Vas racun je ',T,'dinara.');
+    writeln('Press enter to exit program');
+    readln;
 
 end.
