@@ -1,0 +1,1 @@
+Prost program koji ispisuje Hello world! Da to mora da postoji. Zasto? Tradicija.

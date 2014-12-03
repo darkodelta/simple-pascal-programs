@@ -4,29 +4,19 @@
     <PathDelim Value="\"/>
     <Version Value="9"/>
     <BuildModes Active="Default"/>
-    <Units Count="2">
+    <Units Count="1">
       <Unit0>
-        <Filename Value="ocene.pas"/>
+        <Filename Value="helloworld.pas"/>
         <IsPartOfProject Value="True"/>
-        <UnitName Value="ocene"/>
+        <UnitName Value="helloworld"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="0"/>
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
-        <CursorPos X="1" Y="2"/>
+        <CursorPos X="19" Y="5"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit0>
-      <Unit1>
-        <Filename Value="..\hello world\helloworld.pas"/>
-        <UnitName Value="helloworld"/>
-        <IsVisibleTab Value="True"/>
-        <EditorIndex Value="1"/>
-        <WindowIndex Value="0"/>
-        <TopLine Value="1"/>
-        <CursorPos X="1" Y="1"/>
-        <UsageCount Value="10"/>
-        <Loaded Value="True"/>
-      </Unit1>
     </Units>
     <General>
       <ActiveWindowIndexAtStart Value="0"/>
