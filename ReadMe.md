@@ -3,7 +3,7 @@
 <p>Ako sam negde napravio gresku ili imate neku primedbu ili mozda problem koji je realizovan na bolji, prakticniji, brzi ili generalno bolji nacin posaljite pull request da ga spojim u projekat.</p>
 <p>Projekat je nov i verovatno nema dovoljno programa to jest problema, vremenom ce biti dodani.</p>
 <p>English description:</p>
-<p>Collections of simple problems solved using pascal programing languge.</p>
+<p>Collections of simple problems solved using pascal programing language.</p>
 <p>Contact:
 mail@darkodemic.com
 </p>
