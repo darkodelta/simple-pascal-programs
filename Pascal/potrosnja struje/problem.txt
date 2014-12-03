@@ -1,0 +1,1 @@
+Napisati program koji na osnovu broja utrošenih kilovata električne energije P i cene po kilovatu C, izračunava ukupnu naknadu koju potrošač treba da plati T. Ukoliko je naknada veća od 1000 dinara, račun se uvećava za 10%, kako bi se stimulisala štednja električne energije. 

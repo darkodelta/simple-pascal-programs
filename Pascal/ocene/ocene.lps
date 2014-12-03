@@ -9,29 +9,44 @@
         <Filename Value="ocene.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="ocene"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="0"/>
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
-        <CursorPos X="1" Y="2"/>
-        <UsageCount Value="20"/>
+        <CursorPos X="21" Y="7"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit0>
       <Unit1>
         <Filename Value="..\hello world\helloworld.pas"/>
         <UnitName Value="helloworld"/>
-        <IsVisibleTab Value="True"/>
-        <EditorIndex Value="1"/>
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
         <CursorPos X="1" Y="1"/>
         <UsageCount Value="10"/>
-        <Loaded Value="True"/>
       </Unit1>
     </Units>
     <General>
       <ActiveWindowIndexAtStart Value="0"/>
     </General>
-    <JumpHistory Count="0" HistoryIndex="-1"/>
+    <JumpHistory Count="4" HistoryIndex="3">
+      <Position1>
+        <Filename Value="ocene.pas"/>
+        <Caret Line="8" Column="13" TopLine="1"/>
+      </Position1>
+      <Position2>
+        <Filename Value="ocene.pas"/>
+        <Caret Line="10" Column="2" TopLine="1"/>
+      </Position2>
+      <Position3>
+        <Filename Value="ocene.pas"/>
+        <Caret Line="21" Column="39" TopLine="1"/>
+      </Position3>
+      <Position4>
+        <Filename Value="ocene.pas"/>
+        <Caret Line="22" Column="1" TopLine="1"/>
+      </Position4>
+    </JumpHistory>
   </ProjectSession>
   <EditorMacros Count="0"/>
 </CONFIG>
