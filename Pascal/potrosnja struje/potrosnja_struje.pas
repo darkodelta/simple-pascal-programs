@@ -1,0 +1,1 @@
+program potrosnja_struje;
