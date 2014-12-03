@@ -1,3 +1,4 @@
+{Ovo treba tek da uradim, kada budem stigao.}
 program ocene;
 var
   poeni, ocena: integer;
